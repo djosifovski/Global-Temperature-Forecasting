@@ -1,3 +1,1 @@
-# Computational-Physics
-
-Study cases from Computational Physics
+# Global-Temperature-Forecasting
